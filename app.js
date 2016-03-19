@@ -1,5 +1,5 @@
 /*!
- * nodeclub - app.js
+ * nodeclub - app.js,entrance for the application
  */
 
 /**
